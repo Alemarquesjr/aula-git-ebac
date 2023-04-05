@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:Alexandre
+-Profissão: Micro Empresario
+-Cidade:Mogi das Cruzes / SP
+-O que faz nas horas vaga: Gosto de estar com a minha familia e viajar.
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante do curso, tem uma boa didatica e aos poucos vou compreendendo o conteudo.
+-Feedback sobre a plataforma de estudo da EBAC:A plataforma da Ebac é muito boa, acho muito intuitiva.
+
+Obrigado!!!
+
+
